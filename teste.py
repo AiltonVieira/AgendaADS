@@ -3,7 +3,7 @@ import sys
 
 erroadicionar = false
 
-agenda = open("telefonica.csv",'a')
+agenda = open("Agendatelefonica.csv",'a')
 nome = 'Diogo'
 telefone = '11987654321'
 
